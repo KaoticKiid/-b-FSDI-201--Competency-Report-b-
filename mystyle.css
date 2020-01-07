@@ -68,8 +68,9 @@ h1{
     width: 500px;
 }
 
-
-
+.info{
+    justify-content: center;
+}
 
 .footer-in{
     background: rgb(0, 62, 124);
@@ -102,6 +103,10 @@ h1{
     margin: auto;
 }
 
+.table .table-striped .table-dark{
+    margin-left: 0px ; 
+}
+
 h2{
     background: #a7a7a7;
     color: black;
@@ -114,7 +119,6 @@ h2{
 
 .register-form{
     margin-left: 0px;
-
 }
 
 input{
